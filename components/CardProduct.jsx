@@ -18,10 +18,8 @@ const CardProduct = (props) => {
       </View>
       <View>
         <Image style={styles.imagem} source={props.imagens} />
-<<<<<<< HEAD
+
         <Text>{props.alt}</Text>
-=======
->>>>>>> 5b267fa55231b3dc5c0567b1049a9f0d5efaf150
       </View>
     </View>
   );
